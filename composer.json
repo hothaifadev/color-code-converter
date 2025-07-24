@@ -1,5 +1,5 @@
 {
-    "name": "aiz-packages/color-code-converter",
+    "name": "hothaifadev/color-code-converter",
     "description": "HEX code coverted to RGB color code",
     "type": "library",
     "authors": [
